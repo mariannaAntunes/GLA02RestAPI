@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+
+#eachProduct{
+    background-color: DarkGrey;
+    width: 50%;
+    border-radius: 10%; 
+    border: solid yellow;
+    border-width: 5px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title{
+    color: white;
+    margin: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#image{
+    width: 200px;
+    border: solid yellow;
+    border-width: 3px;
+    border-radius: 2%;
+}
+
+#price{
+    background-color: yellow;
+    color: rgb(126, 126, 126);
+}
+
+h4{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#description{
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: justify;
+}
+
+#rate{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#filterByCategory{
+    margin-top: 1%;
+}
+
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
